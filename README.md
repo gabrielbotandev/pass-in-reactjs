@@ -19,7 +19,7 @@
 ## 🎨 Layout da plataforma
 
 <img src="public/layout.png" alt="Banner Projeto NLW Unite Pass.in" title="Banner Projeto NLW Unite Pass.in">  
-<p>Veja detalhes do design do projeto [aqui](https://www.figma.com/file/HE0J9JzhUpJJ7W31dr5hVZ/pass.in)
+Veja detalhes do design do projeto <a href="https://www.figma.com/design/HE0J9JzhUpJJ7W31dr5hVZ/NLW-Unite-%E2%80%A2-Pass.in?node-id=2007-1477&node-type=CANVAS&t=q1Lk5zcWsqGjJZUK-0">aqui</a>
 
 ## ✨ Contribuições
 
